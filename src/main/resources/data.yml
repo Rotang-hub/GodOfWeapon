@@ -1,0 +1,727 @@
+SatelliteDagger:
+  maxLevel: 3
+  cooltime: 10
+  upgrade:
+    1:
+      name: "위성단검"
+      data: 101
+      consume: 5
+      prob: 90
+      statMin: 1
+      statMax: 2
+      price: 1800
+    2:
+      name: "위성단검"
+      data: 101
+      consume: 6
+      prob: 85
+      statMin: 1
+      statMax: 2
+      price: 6650
+    3:
+      name: "위성단검"
+      data: 101
+      consume: 7
+      prob: 80
+      statMin: 1
+      statMax: 2
+      price: 13000
+
+SatelliteSword:
+  maxLevel: 12
+  cooltime: 5
+  upgrade:
+    1:
+      name: "위성검"
+      data: 102
+      consume: 8
+      prob: 75
+      statMin: 1
+      statMax: 2
+      price: 25000
+    2:
+      name: "위성검"
+      data: 102
+      consume: 9
+      prob: 70
+      statMin: 1
+      statMax: 2
+      price: 42000
+    3:
+      name: "위성검"
+      data: 102
+      consume: 10
+      prob: 65
+      statMin: 1
+      statMax: 2
+      price: 64750
+    4:
+      name: "위성검"
+      data: 102
+      consume: 12
+      prob: 60
+      statMin: 1
+      statMax: 3
+      price: 94000
+    5:
+      name: "위성검"
+      data: 102
+      consume: 14
+      prob: 55
+      statMin: 1
+      statMax: 3
+      price: 135700
+    6:
+      name: "위성검"
+      data: 102
+      consume: 17
+      prob: 50
+      statMin: 1
+      statMax: 3
+      price: 189800
+    7:
+      name: "위성검"
+      data: 102
+      consume: 20
+      prob: 40
+      statMin: 2
+      statMax: 4
+      price: 261000
+    8:
+      name: "위성검"
+      data: 102
+      consume: 24
+      prob: 30
+      statMin: 2
+      statMax: 4
+      price: 352000
+    9:
+      name: "위성검"
+      data: 102
+      consume: 28
+      prob: 30
+      statMin: 2
+      statMax: 4
+      price: 469000
+    10:
+      name: "위성검"
+      data: 102
+      consume: 33
+      prob: 30
+      statMin: 2
+      statMax: 4
+      price: 615600
+    11:
+      name: "위성검"
+      data: 102
+      consume: 38
+      prob: 30
+      statMin: 2
+      statMax: 4
+      price: 799500
+    12:
+      name: "위성검"
+      data: 102
+      consume: 43
+      prob: 30
+      statMin: 3
+      statMax: 6
+      price: 1025000
+
+EvolveSatelliteSword:
+  maxLevel: 7
+  cooltime: 5
+  upgrade:
+    1:
+      name: "진 위성검"
+      data: 110
+      consume: 31
+      prob: 50
+      statMin: 3
+      statMax: 6
+      price: 1269600
+    2:
+      name: "진 위성검"
+      data: 110
+      consume: 32
+      prob: 47
+      statMin: 3
+      statMax: 6
+      price: 1697400
+    3:
+      name: "진 위성검"
+      data: 110
+      consume: 33
+      prob: 44
+      statMin: 3
+      statMax: 6
+      price: 2139000
+    4:
+      name: "진 위성검"
+      data: 110
+      consume: 34
+      prob: 41
+      statMin: 3
+      statMax: 6
+      price: 2594400
+    5:
+      name: "진 위성검"
+      data: 110
+      consume: 35
+      prob: 38
+      statMin: 3
+      statMax: 6
+      price: 3063600
+    6:
+      name: "진 위성검"
+      data: 110
+      consume: 36
+      prob: 35
+      statMin: 3
+      statMax: 6
+      price: 3546600
+    7:
+      name: "진 위성검"
+      data: 110
+      consume: 0
+      prob: 40
+      statMin: 0
+      statMax: 0
+      price: 4043400
+
+RedDwarfSword:
+  maxLevel: 10
+  upgrade:
+    1:
+      name: "홍성검"
+      data: 103
+      consume: 5
+      prob: 60
+      statMin: 1
+      statMax: 1
+      critProb: 5
+      price: 120000
+
+    2:
+      name: "홍성검"
+      data: 103
+      consume: 6
+      prob: 55
+      statMin: 1
+      statMax: 1
+      critProb: 10
+      price: 175500
+    3:
+      name: "홍성검"
+      data: 103
+      consume: 7
+      prob: 50
+      statMin: 1
+      statMax: 1
+      critProb: 15
+      price: 244800
+
+    4:
+      name: "홍성검"
+      data: 103
+      consume: 8
+      prob: 45
+      statMin: 1
+      statMax: 1
+      critProb: 20
+      price: 330600
+    5:
+      name: "홍성검"
+      data: 103
+      consume: 9
+      prob: 40
+      statMin: 1
+      statMax: 1
+      critProb: 25
+      price: 435600
+    6:
+      name: "홍성검"
+      data: 103
+      consume: 10
+      prob: 35
+      statMin: 1
+      statMax: 1
+      critProb: 30
+      price: 562500
+    7:
+      name: "홍성검"
+      data: 103
+      consume: 11
+      prob: 30
+      statMin: 1
+      statMax: 1
+      critProb: 35
+      price: 714000
+    8:
+      name: "홍성검"
+      data: 103
+      consume: 12
+      prob: 30
+      statMin: 1
+      statMax: 1
+      critProb: 40
+      price: 892800
+    9:
+      name: "홍성검"
+      data: 103
+      consume: 13
+      prob: 30
+      statMin: 1
+      statMax: 1
+      critProb: 45
+      price: 1101600
+    10:
+      name: "홍성검"
+      data: 103
+      consume: 0
+      prob: 0
+      statMin: 1
+      statMax: 1
+      critProb: 50
+      price: 1343100
+
+HerbSword:
+  maxLevel: 10
+  cooltime: 12
+  upgrade:
+    1:
+      name: "초섬검"
+      data: 104
+      consume: 15
+      prob: 60
+      statMin: 1
+      statMax: 1
+      heal: 3
+      price: 67000
+
+    2:
+      name: "초섬검"
+      data: 104
+      consume: 17
+      prob: 55
+      statMin: 1
+      statMax: 1
+      heal: 6
+      price: 98400
+    3:
+      name: "초섬검"
+      data: 104
+      consume: 19
+      prob: 50
+      statMin: 1
+      statMax: 1
+      heal: 9
+      price: 138600
+    4:
+      name: "초섬검"
+      data: 104
+      consume: 21
+      prob: 45
+      statMin: 1
+      statMax: 1
+      heal: 12
+      price: 188800
+    5:
+      name: "초섬검"
+      data: 104
+      consume: 23
+      prob: 40
+      statMin: 1
+      statMax: 1
+      heal: 15
+      price: 250200
+    6:
+      name: "초섬검"
+      data: 104
+      consume: 25
+      prob: 35
+      statMin: 1
+      statMax: 1
+      heal: 18
+      price: 324000
+    7:
+      name: "초섬검"
+      data: 104
+      consume: 27
+      prob: 30
+      statMin: 1
+      statMax: 1
+      heal: 21
+      price: 411400
+    8:
+      name: "초섬검"
+      data: 104
+      consume: 29
+      prob: 30
+      statMin: 1
+      statMax: 1
+      heal: 24
+      price: 513600
+    9:
+      name: "초섬검"
+      data: 104
+      consume: 31
+      prob: 30
+      statMin: 1
+      statMax: 1
+      heal: 27
+      price: 631800
+    10:
+      name: "초섬검"
+      data: 104
+      consume: 0
+      prob: 0
+      statMin: 0
+      statMax: 0
+      heal: 30
+      price: 767200
+
+SonificationSword:
+  maxLevel: 7
+  cooltime: 10
+  upgrade:
+    1:
+      name: "파동검:출"
+      data: 105
+      consume: 5
+      prob: 50
+      statMin: 1
+      statMax: 2
+      price: 62000
+
+    2:
+      name: "파동검:출"
+      data: 105
+      consume: 7
+      prob: 47
+      statMin: 1
+      statMax: 2
+      price: 100100
+    3:
+      name: "파동검:출"
+      data: 105
+      consume: 9
+      prob: 44
+      statMin: 1
+      statMax: 2
+      price: 156800
+    4:
+      name: "파동검:출"
+      data: 105
+      consume: 11
+      prob: 41
+      statMin: 1
+      statMax: 2
+      price: 237500
+    5:
+      name: "파동검:출"
+      data: 105
+      consume: 13
+      prob: 38
+      statMin: 1
+      statMax: 2
+      price: 347600
+    6:
+      name: "파동검:출"
+      data: 105
+      consume: 15
+      prob: 35
+      statMin: 1
+      statMax: 2
+      price: 492500
+    7:
+      name: "파동검:출"
+      data: 105
+      consume: 0
+      prob: 0
+      statMin: 0
+      statMax: 0
+      price: 677600
+
+SonificationSwordRyu:
+  maxLevel: 7
+  cooltime: 13
+  upgrade:
+    1:
+      name: "파동검:류"
+      data: 109
+      consume: 5
+      prob: 50
+      statMin: 1
+      statMax: 2
+      duration: 3
+      price: 77000
+
+    2:
+      name: "파동검:류"
+      data: 109
+      consume: 7
+      prob: 47
+      statMin: 1
+      statMax: 2
+      duration: 4
+      price: 119600
+    3:
+      name: "파동검:류"
+      data: 109
+      consume: 9
+      prob: 44
+      statMin: 1
+      statMax: 2
+      duration: 5
+      price: 180800
+    4:
+      name: "파동검:류"
+      data: 109
+      consume: 11
+      prob: 41
+      statMin: 1
+      statMax: 2
+      duration: 6
+      price: 266000
+    5:
+      name: "파동검:류"
+      data: 109
+      consume: 13
+      prob: 38
+      statMin: 1
+      statMax: 2
+      duration: 7
+      price: 380600
+    6:
+      name: "파동검:류"
+      data: 109
+      consume: 15
+      prob: 35
+      statMin: 1
+      statMax: 2
+      duration: 8
+      price: 530000
+    7:
+      name: "파동검:류"
+      data: 109
+      consume: 0
+      prob: 0
+      statMin: 0
+      statMax: 0
+      duration: 9
+      price: 719600
+
+BlindSword:
+  maxLevel: 7
+  cooltime: 20
+  upgrade:
+    1:
+      name: "절안검"
+      data: 107
+      consume: 15
+      prob: 50
+      statMin: 2
+      statMax: 2
+      duration: 2
+      price: 59000
+    2:
+      name: "절안검"
+      data: 107
+      consume: 18
+      prob: 45
+      statMin: 2
+      statMax: 2
+      duration: 3
+      price: 135200
+    3:
+      name: "절안검"
+      data: 107
+      consume: 21
+      prob: 40
+      statMin: 2
+      statMax: 2
+      duration: 4
+      price: 252800
+    4:
+      name: "절안검"
+      data: 107
+      consume: 24
+      prob: 35
+      statMin: 2
+      statMax: 2
+      duration: 5
+      price: 419900
+    5:
+      name: "절안검"
+      data: 107
+      consume: 27
+      prob: 30
+      statMin: 2
+      statMax: 2
+      duration: 6
+      price: 644600
+    6:
+      name: "절안검"
+      data: 107
+      consume: 30
+      prob: 25
+      statMin: 2
+      statMax: 2
+      duration: 7
+      price: 935000
+    7:
+      name: "절안검"
+      data: 107
+      consume: 20
+      prob: 40
+      statMin: 2
+      statMax: 2
+      duration: 8
+      price: 1299200
+
+BlazingSword:
+  maxLevel: 7
+  cooltime: 20
+  upgrade:
+    1:
+      name: "염화검"
+      data: 108
+      consume: 10
+      prob: 50
+      statMin: 3
+      statMax: 3
+      hit: 2
+      price: 220000
+
+    2:
+      name: "염화검"
+      data: 108
+      consume: 15
+      prob: 45
+      statMin: 3
+      statMax: 3
+      hit: 3
+      price: 295000
+    3:
+      name: "염화검"
+      data: 108
+      consume: 20
+      prob: 40
+      statMin: 3
+      statMax: 3
+      hit: 4
+      price: 412000
+    4:
+      name: "염화검"
+      data: 108
+      consume: 25
+      prob: 35
+      statMin: 3
+      statMax: 3
+      hit: 5
+      price: 584500
+    5:
+      name: "염화검"
+      data: 108
+      consume: 30
+      prob: 30
+      statMin: 3
+      statMax: 3
+      hit: 6
+      price: 826000
+    6:
+      name: "염화검"
+      data: 108
+      consume: 35
+      prob: 25
+      statMin: 3
+      statMax: 3
+      hit: 7
+      price: 1150000
+    7:
+      name: "염화검"
+      data: 108
+      consume: 0
+      prob: 0
+      statMin: 0
+      statMax: 0
+      hit: 8
+      price: 1570000
+
+CounterShield:
+  maxLevel: 7
+  cooltime: 20
+  upgrade:
+    1:
+      name: "반격방패"
+      data: 106
+      consume: 15
+      prob: 50
+      counter: 40
+      knockback: 0
+      statMin: 0
+      statMax: 0
+      price: 100000
+    2:
+      name: "반격방패"
+      data: 106
+      consume: 15
+      prob: 45
+      counter: 45
+      knockback: 0
+      statMin: 0
+      statMax: 0
+      price: 169000
+    3:
+      name: "반격방패"
+      data: 106
+      consume: 15
+      prob: 40
+      counter: 50
+      knockback: 2
+      statMin: 0
+      statMax: 0
+      price: 264000
+    4:
+      name: "반격방패"
+      data: 106
+      consume: 15
+      prob: 35
+      counter: 55
+      knockback: 3
+      statMin: 0
+      statMax: 0
+      price: 389500
+    5:
+      name: "반격방패"
+      data: 106
+      consume: 15
+      prob: 30
+      counter: 60
+      knockback: 4
+      statMin: 0
+      statMax: 0
+      price: 550000
+    6:
+      name: "반격방패"
+      data: 106
+      consume: 15
+      prob: 25
+      counter: 65
+      knockback: 5
+      statMin: 0
+      statMax: 0
+      price: 750000
+    7:
+      name: "반격방패"
+      data: 106
+      consume: 15
+      prob: 0
+      counter: 70
+      knockback: 6
+      statMin: 0
+      statMax: 0
+      price: 994000
+
+

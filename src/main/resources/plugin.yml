@@ -1,0 +1,10 @@
+name: GodOfWeapon
+version: '${project.version}'
+main: io.github.rotanghub.godofweapon.GodOfWeapon
+api-version: 1.19
+commands:
+  gow:
+    permission: admin
+permissions:
+  admin:
+    default: op
